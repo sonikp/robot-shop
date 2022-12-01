@@ -1,4 +1,4 @@
-# Set-up Robot-Shop in Docker ###(Item 11)
+# Set-up Robot-Shop in Docker (Item 11)
 
 File for capturing the steps followed to run the application and the screenshot of the homepage
 
