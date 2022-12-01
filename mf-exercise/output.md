@@ -6,3 +6,7 @@ File for capturing the followed to run the application and the screenshot of the
 - # docker-compose pull => to pull the robot-shop docker image from docker-hub
 - # docker-compose up => run docker image
 - Error need to find INSTANA_AGENT_KEY
+
+
+Image
+![image](https://github.com/sonikp/robot-shop/blob/master/mf-exercise/StansRobotShop-Image-01.png)
