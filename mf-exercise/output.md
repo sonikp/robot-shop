@@ -12,7 +12,7 @@ File for capturing the steps followed to run the application and the screenshot 
 - Error need to find INSTANA_AGENT_KEY
 
 
-## Image (Item 12)
+### Image (Item 12)
 ![image](https://github.com/sonikp/robot-shop/blob/master/mf-exercise/StansRobotShop-Image-01.png)
 
 ### Securing your master repo (Item 14)
